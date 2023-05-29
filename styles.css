@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(125, 160, 235);
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: 20px;
+}
+
+.post{
+    background-color: aliceblue;
+    margin: 50px;
+    border-radius: 10px;
+    border: solid aliceblue;
+}
+
+.reply{
+    background-color: aliceblue;
+    margin: 50px;
+    margin-left: 150px;
+    border: solid aliceblue;
+    border-radius: 10px;
+}
+
+.text{
+    color: rgb(81, 88, 91);
+}
+
+.user{
+    color: blue;
+    text-decoration: underline;
+}
+
+.username{
+    color: rgb(18, 18, 110);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.date{
+    color: rgb(177, 179, 180);
+    margin: 20px;
+}
+
+.rbutton{
+    color: rgb(28, 0, 213);
+    text-align: right;
+    padding-left: 730px;
+}
+
+.rbutton2{
+    color: rgb(28, 0, 213);
+    text-align: right;
+    padding-left: 630px;
+}
+
+.rbutton3{
+    color: rgb(28, 0, 213);
+    text-align: right;
+    padding-left: 650px;
+}
+
+.profile{
+    height: 75%;
+}
+
+.picture{
+    height: 75%;
+}
